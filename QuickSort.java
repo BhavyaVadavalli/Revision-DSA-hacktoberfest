@@ -60,7 +60,6 @@ class GFG {
 		int[] arr = { 8,7, 6,9,11,25 };
 		int N = arr.length;
 
-	
 		quickSort(arr, 0, N - 1);
 		System.out.println("Sorted array:");
 		printArr(arr);
